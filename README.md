@@ -1,3 +1,3 @@
 # tryagin
 ....
-木校 is a 傻逼
+木校 is a 傻逼.
